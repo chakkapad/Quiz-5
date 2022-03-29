@@ -1,0 +1,17 @@
+D:\งาน\Quiz-5\Quiz-5\Quiz-5\obj\Debug\net6.0-windows\Quiz-5.csproj.AssemblyReference.cache
+D:\งาน\Quiz-5\Quiz-5\Quiz-5\obj\Debug\net6.0-windows\Quiz_5.Form1.resources
+D:\งาน\Quiz-5\Quiz-5\Quiz-5\obj\Debug\net6.0-windows\Quiz-5.csproj.GenerateResource.cache
+D:\งาน\Quiz-5\Quiz-5\Quiz-5\obj\Debug\net6.0-windows\Quiz-5.GeneratedMSBuildEditorConfig.editorconfig
+D:\งาน\Quiz-5\Quiz-5\Quiz-5\obj\Debug\net6.0-windows\Quiz-5.AssemblyInfoInputs.cache
+D:\งาน\Quiz-5\Quiz-5\Quiz-5\obj\Debug\net6.0-windows\Quiz-5.AssemblyInfo.cs
+D:\งาน\Quiz-5\Quiz-5\Quiz-5\obj\Debug\net6.0-windows\Quiz-5.csproj.CoreCompileInputs.cache
+D:\งาน\Quiz-5\Quiz-5\Quiz-5\bin\Debug\net6.0-windows\Quiz-5.exe
+D:\งาน\Quiz-5\Quiz-5\Quiz-5\bin\Debug\net6.0-windows\Quiz-5.deps.json
+D:\งาน\Quiz-5\Quiz-5\Quiz-5\bin\Debug\net6.0-windows\Quiz-5.runtimeconfig.json
+D:\งาน\Quiz-5\Quiz-5\Quiz-5\bin\Debug\net6.0-windows\Quiz-5.dll
+D:\งาน\Quiz-5\Quiz-5\Quiz-5\bin\Debug\net6.0-windows\ref\Quiz-5.dll
+D:\งาน\Quiz-5\Quiz-5\Quiz-5\bin\Debug\net6.0-windows\Quiz-5.pdb
+D:\งาน\Quiz-5\Quiz-5\Quiz-5\obj\Debug\net6.0-windows\Quiz-5.dll
+D:\งาน\Quiz-5\Quiz-5\Quiz-5\obj\Debug\net6.0-windows\ref\Quiz-5.dll
+D:\งาน\Quiz-5\Quiz-5\Quiz-5\obj\Debug\net6.0-windows\Quiz-5.pdb
+D:\งาน\Quiz-5\Quiz-5\Quiz-5\obj\Debug\net6.0-windows\Quiz-5.genruntimeconfig.cache
